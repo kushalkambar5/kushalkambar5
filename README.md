@@ -28,3 +28,5 @@ I know MERN Stack languages and I have done my DSA in C++.
 📫 How to reach me:
  Email: kushalbkambar@gmail.com
  LinkedIN: https://www.linkedin.com/in/kushalbk/
+
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
